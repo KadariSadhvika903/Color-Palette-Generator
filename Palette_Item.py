@@ -1,5 +1,5 @@
 from PyQt5.QtGui import *
-from PyQt5.QtWidgets import QWidget, QFrame, QVBoxLayout, QGridLayout, QLabel, QPushButton
+from PyQt5.QtWidgets import QWidget, QFrame, QVBoxLayout, QGridLayout, QLabel, QMessageBox
 from PyQt5.QtCore import *
 from Hover_btn import *
 import pyperclip
@@ -21,8 +21,10 @@ class Palette_item(QWidget):
         self.setLayout(self.layout)
 
     def copy_btn_click(self):
+        self.showdialog()
         pyperclip.copy(self.color)
-        self.copybtn.setToolTip("Hex Copied!")
+        # self.copybtn.setToolTip("Hex Copied!")
+
 
     def palette_name(self):
         layout = QGridLayout()
@@ -57,3 +59,12 @@ class Palette_item(QWidget):
         layout.setSpacing(0)
 
         self.Frame.setLayout(layout)
+
+    def showdialog(self):
+        msg = QMessageBox()
+        msg.setIcon(QMessageBox.Information)
+        msg.setText("Hex Copied")
+        msg.setWindowTitle("Color Palette generator")
+        # msg.setStandardButtons(QMessageBox.Ok | QMessageBox.Cancel)
+        msg.exec_()
+
