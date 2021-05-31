@@ -22,7 +22,7 @@
 
 
 ## 🚀 Tecnologies
-#### All the code was built in [Python3](https://www.python.org/). How was my first experience with the library [PyQt5](https://pypi.org/project/PyQt5/) I also used the support of the screen creator [QtDesign](https://build-system.fman.io/qt-designer-download).
+#### All the code was built in [Python3](https://www.python.org/). With a blend of my first experience with the library [PyQt5](https://pypi.org/project/PyQt5/).
 
 ## 🔨 Dependencies
 #### The list of libraries and their respective versions are listed in the file [requirements.txt](requirements.txt).
