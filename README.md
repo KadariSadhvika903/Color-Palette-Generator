@@ -33,7 +33,7 @@ pip install PyQt5
 <p align="center"> Watch the full demo here :point_down:</p>
 
 <p align="center"><a href="https://youtu.be/4T8Bq1fzFX0" target="_blank"><img src="./Images/gif.gif" alt="VIDEO OF PROJECT" /></a>&nbsp;</p> 
-The video explains the working of the project as well as all its technicalities. It also gives us a User Experience for the Users.
+The video explains the working of the project as well as all its technicalities.
 
 <br>
 
@@ -47,13 +47,12 @@ The video explains the working of the project as well as all its technicalities.
 ```bash
 pip install -r requirements.txt
 ```
-4. Open the application in one of your code editors.
-5. Run the application.
-6. To run the application, run the following command in the terminal:
+4. Run the application.
+5. To run the application, run the following command in the terminal:
 ```bash
 python main.py
 ```
-7. You can test the app now.:confetti_ball::confetti_ball:
+6. You can test the app now.:confetti_ball::confetti_ball:
 
 <br>
 
@@ -69,7 +68,7 @@ python main.py
 
 <br>
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 #### All the code was built in [Python3](https://www.python.org/). With a blend of my first experience with the library [PyQt5](https://pypi.org/project/PyQt5/).
 
 <br>
