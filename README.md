@@ -29,10 +29,10 @@ pip install PyQt5
 
 **Watch the full demo here :point_down:** 
 
-[![VIDEO OF PROJECT](https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=350&q=80)](https://youtu.be/4T8Bq1fzFX0)  
+[![VIDEO OF PROJECT](https://images.unsplash.com/photo-1583096114844-06ce5a5f2171?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)](https://youtu.be/4T8Bq1fzFX0)  
 The video explains the working of the project as well as all its technicalities. It also gives us a User Experience for the Users.
 
-## How to Use:question:
+## How to Use:question
 <!-- To use the application one must have Python 3.8 or above version installed in their machine. -->
 
 ### :arrow_forward:Steps to Run the project
@@ -48,13 +48,13 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-7. You can test the app now.:confetti_ball::tada:
+7. You can test the app now.:confetti_ball::confetti_ball:
 
 
 ## 🚀 Tecnologies
 #### All the code was built in [Python3](https://www.python.org/). With a blend of my first experience with the library [PyQt5](https://pypi.org/project/PyQt5/).
 
-## :books:Modules I Used:
+## :books:Modules I Used
 
 
 ## :bookmark_tabs:Reasons to Use
